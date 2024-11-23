@@ -1,7 +1,7 @@
 Group Members:
-Samiullah Saeed (CT-134)
-Salik Ahmed (CT-133)
-Romaisa Fatima (CT-119)
+Samiullah Saeed (CT-134),
+Salik Ahmed (CT-133),
+Romaisa Fatima (CT-119).
 
 Here is a simple calculator which performs basic arithmetic tasks like addition, subtraction, multiplication and division.
 To run the calculator file in the folder:
